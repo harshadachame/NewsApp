@@ -1,0 +1,3 @@
+# .gitignore
+private-Constants.kt
+private-util/Constants
